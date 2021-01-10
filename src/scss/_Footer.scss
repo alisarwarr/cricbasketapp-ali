@@ -1,0 +1,19 @@
+.footer {
+    background-color: black;
+    color: white;
+    height: 4.4rem;
+
+    span {
+        color: white;
+        font-size: 0.9rem;
+        transition-duration: 0.25s;
+        &:hover {
+            cursor: pointer;
+            color: #FA944B !important;
+        }
+    }
+
+    .footer-copyright {
+        font-size: 0.825rem;
+    }
+}

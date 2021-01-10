@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.25e85cbf.chunk.css",
+    "main.js": "/static/js/main.b67c7831.chunk.js",
+    "main.js.map": "/static/js/main.b67c7831.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7ec9d133.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7ec9d133.js.map",
+    "static/js/2.34596e72.chunk.js": "/static/js/2.34596e72.chunk.js",
+    "static/js/2.34596e72.chunk.js.map": "/static/js/2.34596e72.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.25e85cbf.chunk.css.map": "/static/css/main.25e85cbf.chunk.css.map",
+    "static/js/2.34596e72.chunk.js.LICENSE.txt": "/static/js/2.34596e72.chunk.js.LICENSE.txt",
+    "static/media/Style.scss": "/static/media/dfont.0a7da834.ttf",
+    "static/media/ball.7d66ae18.jpg": "/static/media/ball.7d66ae18.jpg",
+    "static/media/bat.56946012.jpg": "/static/media/bat.56946012.jpg",
+    "static/media/cap.508bae22.jpg": "/static/media/cap.508bae22.jpg",
+    "static/media/complete.f43de110.jpg": "/static/media/complete.f43de110.jpg",
+    "static/media/glass.a41d5dba.png": "/static/media/glass.a41d5dba.png",
+    "static/media/glub.04c898a5.jpg": "/static/media/glub.04c898a5.jpg",
+    "static/media/handpad.2b9ecf88.jpg": "/static/media/handpad.2b9ecf88.jpg",
+    "static/media/helmet.f3750fee.jpg": "/static/media/helmet.f3750fee.jpg",
+    "static/media/pad.a14adccd.jpg": "/static/media/pad.a14adccd.jpg",
+    "static/media/roundcap.de1d57cd.jpg": "/static/media/roundcap.de1d57cd.jpg",
+    "static/media/shirt.266714dc.jpg": "/static/media/shirt.266714dc.jpg",
+    "static/media/wicket.06f041df.jpg": "/static/media/wicket.06f041df.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ec9d133.js",
+    "static/js/2.34596e72.chunk.js",
+    "static/css/main.25e85cbf.chunk.css",
+    "static/js/main.b67c7831.chunk.js"
+  ]
+}

@@ -1,0 +1,18 @@
+.navbar {
+    background-color: black;
+    color: white;
+    height: 4.4rem;
+    
+    #title {
+        font-family: dfont !important;
+        font-weight: bold;
+        font-size: 1.8rem;
+        letter-spacing: 0.275rem;
+        word-spacing: 0.05rem;
+    }
+}
+#shade {
+    //Google inspect copied
+    box-shadow: 0 2px 4px rgba(70, 63, 63, 0.06) !important;
+    border-bottom: 1px solid #504e4e;
+}
